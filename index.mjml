@@ -3,7 +3,7 @@
     <!-- Logo -->
     <mj-section background-color="#ffffff">
       <mj-column width="100%">
-        <mj-image href="https://www.instagram.com/ana.manu._confeitaria" src="./banner.png" alt="Ana & Manu Logo" align="center" padding="10px"></mj-image>
+        <mj-image href="https://www.instagram.com/ana.manu._confeitaria" src="https://server-img-projetos.vercel.app/banner.png" alt="Ana & Manu Logo" align="center" padding="10px"></mj-image>
       </mj-column>
     </mj-section>
 
@@ -41,19 +41,19 @@
 
     <mj-section background-color="#ffffff" padding="20px 0">
       <mj-column width="20%">
-        <mj-image href="https://www.instagram.com/ana.manu._confeitaria" src="./CP_MORANGO_TRUFADO.jpg" alt="Copo 1" border="none" width="200px" padding="10px"></mj-image>
+        <mj-image href="https://www.instagram.com/ana.manu._confeitaria" src="https://server-img-projetos.vercel.app/CP_MORANGO_TRUFADO.jpg" alt="Copo 1" border="none" width="200px" padding="10px"></mj-image>
       </mj-column>
       <mj-column width="20%">
-        <mj-image href="https://www.instagram.com/ana.manu._confeitaria" src="./CP_TENTACAO_DOURADA.jpg" alt="Copo 2" border="none" width="200px" padding="10px"></mj-image>
+        <mj-image href="https://www.instagram.com/ana.manu._confeitaria" src="https://server-img-projetos.vercel.app/CP_TENTACAO_DOURADA.jpg" alt="Copo 2" border="none" width="200px" padding="10px"></mj-image>
       </mj-column>
       <mj-column width="20%">
-        <mj-image href="https://www.instagram.com/ana.manu._confeitaria" src="./CP_LIMÃO_TROPICAL.jpg" alt="Copo 3" border="none" width="200px" padding="10px"></mj-image>
+        <mj-image href="https://www.instagram.com/ana.manu._confeitaria" src="https://server-img-projetos.vercel.app/CP_LIM%C3%83O_TROPICAL.jpg" alt="Copo 3" border="none" width="200px" padding="10px"></mj-image>
       </mj-column>
       <mj-column width="20%">
-        <mj-image href="https://www.instagram.com/ana.manu._confeitaria" src="./CP_TESOURO_BRANCO.jpg" alt="Copo 4" border="none" width="200px" padding="10px"></mj-image>
+        <mj-image href="https://www.instagram.com/ana.manu._confeitaria" src="https://server-img-projetos.vercel.app/CP_TESOURO_BRANCO.jpg" alt="Copo 4" border="none" width="200px" padding="10px"></mj-image>
       </mj-column>
       <mj-column width="20%">
-        <mj-image href="https://www.instagram.com/ana.manu._confeitaria" src="./CP_UVA_DOS_SONHOS.jpg" alt="Copo 5" border="none" width="200px" padding="10px"></mj-image>
+        <mj-image href="https://www.instagram.com/ana.manu._confeitaria" src="https://server-img-projetos.vercel.app/CP_UVA_DOS_SONHOS.jpg" alt="Copo 5" border="none" width="200px" padding="10px"></mj-image>
       </mj-column>
     </mj-section>
 
